@@ -2,7 +2,7 @@
 
 This document is about some common measurement problems in data science.
 
-Objectives:
+##### Objectives:
 - Rating Products
 - Sorting Products
 - Sorting Review
